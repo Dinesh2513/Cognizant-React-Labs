@@ -1,0 +1,18 @@
+.mydiv {
+  text-align: center;
+}
+
+.mydiv h1 {
+  color: green;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  color: seagreen;
+  text-align: center;
+}
