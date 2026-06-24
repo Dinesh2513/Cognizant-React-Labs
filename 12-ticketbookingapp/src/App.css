@@ -1,0 +1,9 @@
+.main {
+  margin-left: 220px;
+  margin-top: 120px;
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
