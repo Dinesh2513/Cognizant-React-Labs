@@ -1,0 +1,13 @@
+.container {
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+.office-card {
+  margin-bottom: 40px;
+}
+
+.office-card img {
+  display: block;
+  margin-bottom: 20px;
+}
