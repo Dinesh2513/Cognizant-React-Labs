@@ -1,0 +1,13 @@
+.user-container {
+  margin-left: 220px;
+  margin-top: 120px;
+}
+
+.user-container h1 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.user-container img {
+  margin-top: 20px;
+}
