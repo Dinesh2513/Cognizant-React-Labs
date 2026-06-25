@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+.section {
+  width: 30%;
+  padding: 20px;
+  border-left: 4px solid green;
+}
+
+.section:first-child {
+  border-left: none;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h3 {
+  margin-bottom: 5px;
+}
+
+h4 {
+  margin-top: 0;
+}
