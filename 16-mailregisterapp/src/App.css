@@ -1,0 +1,22 @@
+.register-container {
+  text-align: center;
+  margin-top: 80px;
+}
+
+.register-container h1 {
+  color: red;
+}
+
+table {
+  margin: auto;
+}
+
+td {
+  padding: 5px;
+  text-align: left;
+}
+
+button {
+  padding: 4px 10px;
+  cursor: pointer;
+}
